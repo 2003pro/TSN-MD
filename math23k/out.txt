@@ -1,0 +1,47 @@
+Reading lines...
+Reading lines...
+Transfer numbers...
+Indexing words...
+keep_words 3928 / 10543 = 0.3726
+Indexed 3931 words in input language, 23 words in output
+Number of training data 21162
+Number of testind data 1000
+epoch: 1
+loss: 3.7358515413866304
+training time 0h 10m 41s
+--------------------------------
+304 338 283 314 275 307 1000
+test_answer_acc 0.304 0.338
+decoder1 test_answer_acc 0.283 0.314
+decoder2 test_answer_acc 0.275 0.307
+test_answer_acc 0.278 0.309
+testing time 0h 5m 27s
+------------------------------------------------------
+epoch: 2
+loss: 2.6093478411706195
+training time 0h 10m 51s
+--------------------------------
+epoch: 3
+loss: 2.2394681095716815
+training time 0h 10m 41s
+--------------------------------
+epoch: 4
+loss: 2.031866654888741
+training time 0h 10m 40s
+--------------------------------
+epoch: 5
+loss: 1.896976129165949
+training time 0h 10m 45s
+--------------------------------
+epoch: 6
+loss: 1.802416751391938
+training time 0h 10m 46s
+--------------------------------
+595 678 555 640 560 644 1000
+test_answer_acc 0.595 0.678
+decoder1 test_answer_acc 0.555 0.64
+decoder2 test_answer_acc 0.56 0.644
+test_answer_acc 0.565 0.646
+testing time 0h 5m 50s
+------------------------------------------------------
+epoch: 7
